@@ -12,7 +12,6 @@ const Message = [
 
 function Compass() {
 
-
 	return (
 		<>
 			<h1>오늘의 방향은?</h1>
