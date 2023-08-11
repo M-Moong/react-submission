@@ -1,12 +1,8 @@
 # 1주차 React 과제
 
----
-
 ## 구현 화면
 
 ![Alt text](image.png)
-
----
 
 ## 피그마 시안
 
@@ -15,8 +11,6 @@
 ![Alt text](image-1.png)
 
 - 각각 버튼에 variant로 Direction을 설정하였습니다.
-
----
 
 ## 파일 구조
 
@@ -34,8 +28,6 @@
     │   └── RotateButton.jsx
     ├── index.css
     └── main.jsx
-
----
 
 ## 코드
 
